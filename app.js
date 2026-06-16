@@ -1,6 +1,6 @@
- const bmi = document.querySelector(".bmi");
-        const submit = document.querySelector(".submit");
-        const output = document.querySelector(".output");
+const bmi = document.querySelector(".bmi");
+const submit = document.querySelector(".submit");
+const output = document.querySelector(".output");
         const error = document.querySelector(".error");
         
         submit.addEventListener("click",()=>{
